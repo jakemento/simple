@@ -1,4 +1,12 @@
 $(document).ready(function() {
+  $("button#blackTheme").click(function() {
+    $("body").removeClass();
+   $("body").addClass("black-background");
+ });
+ $("button#whiteTheme").click(function() {
+   $("body").removeClass();
+  $("body").addClass("white-background");
+ });
   $("button#cat-btn").click(function() {
     $("ul#cat").prepend("<li>Meow!</li>");
     $("ul#cat").children("li").first().click(function() {
