@@ -1,0 +1,23 @@
+Is the Github documentation - commits and README - thorough and descriptive?
+//Good Commits.
+
+
+
+Is the code easy to read (good indentation, spacing, naming)?
+//GREAT indentation.  Good naming, good comment image reference.
+
+Were jQuery effects used for user interaction?
+// Yes, the jquery was wonderful.
+
+
+Is the web page(s) styled using Bootstrap and CSS?
+// Yes, great column usage and rounded images.  Both bootstrap and css were used
+
+
+Is the site user-friendly?
+//Yes, user and mobile friendly. It left us with a sense of comfort and security.
+
+
+Do you have any additional constructive criticism or positive feedback to share?
+//I dont think you need to have jquery library links at the bottom
+//of the page if you are also going to ""$(document).ready(function() {"
